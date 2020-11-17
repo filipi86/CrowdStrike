@@ -1,5 +1,3 @@
-=============================================================================
-
 **PoC in Video**
 
 In this video below, We can see all these steps executed in this paper.
